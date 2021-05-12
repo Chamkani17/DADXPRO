@@ -170,10 +170,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCMc2iR5WPGHvLrY1w2tw4SQ
+            os.system('xdg-open https://m.youtube.com/channel/UCMc2iR5WPGHvLrY1w2tw4SQ')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCMc2iR5WPGHvLrY1w2tw4SQ
+        os.system('xdg-open https://m.youtube.com/channel/UCMc2iR5WPGHvLrY1w2tw4SQ')
  
  
  
